@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Espresso"><defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4ede0"/><stop offset="1" stop-color="#e0d0b4"/></linearGradient></defs><rect width="800" height="600" fill="url(#b)"/><ellipse cx="400" cy="452" rx="150" ry="34" fill="#000" opacity=".08"/>
+<ellipse cx="400" cy="436" rx="132" ry="30" fill="#fbf7f0"/><ellipse cx="400" cy="430" rx="132" ry="30" fill="#fffdf8"/>
+<path d="M338 312h124l-11 84a26 26 0 0 1-26 22h-50a26 26 0 0 1-26-22z" fill="#f2ede4"/>
+<path d="M462 328c34-8 52 10 47 35-5 24-28 34-54 31l3-20c16 2 28-3 30-14 2-11-8-16-27-13z" fill="#f2ede4"/>
+<ellipse cx="400" cy="312" rx="62" ry="17" fill="#3a2413"/><ellipse cx="400" cy="310" rx="52" ry="13" fill="#a5713d"/></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Cafe interior">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f2e9"/><stop offset="1" stop-color="#e2d6c1"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a33"/><stop offset="1" stop-color="#5f3a1f"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#b)"/>
+<rect x="0" y="380" width="800" height="220" fill="#d9cdb8"/>
+<rect x="60" y="120" width="300" height="260" rx="10" fill="#fff6e2"/><rect x="60" y="120" width="300" height="260" rx="10" fill="none" stroke="#8a5a33" stroke-width="12"/>
+<rect x="440" y="120" width="300" height="260" rx="10" fill="#fff6e2"/><rect x="440" y="120" width="300" height="260" rx="10" fill="none" stroke="#8a5a33" stroke-width="12"/>
+<g fill="#3e4b35" opacity=".5"><path d="M120 380c-6-60 8-104 24-130 4 38 10 90 5 130z"/><path d="M700 380c-6-64 10-112 26-140 4 42 10 98 5 140z"/></g>
+<rect x="300" y="404" width="200" height="20" rx="10" fill="#f6f1e6"/><rect x="390" y="424" width="20" height="90" rx="8" fill="#bdb3a2"/><ellipse cx="400" cy="520" rx="60" ry="16" fill="#bdb3a2"/>
+<g fill="#efe7d8"><rect x="150" y="420" width="120" height="90" rx="30"/><rect x="530" y="420" width="120" height="90" rx="30"/></g>
+<g fill="#ffffff"><rect x="330" y="386" width="26" height="22" rx="6"/><rect x="368" y="384" width="26" height="24" rx="6"/></g></svg>

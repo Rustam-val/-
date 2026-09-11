@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Iced coffee">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef0e6"/><stop offset="1" stop-color="#d7dcc6"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a33"/><stop offset="1" stop-color="#5f3a1f"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#b)"/><ellipse cx="400" cy="470" rx="210" ry="46" fill="#000" opacity=".08"/>
+<path d="M318 246h164l-20 232a34 34 0 0 1-34 30h-56a34 34 0 0 1-34-30z" fill="#f7f4ec" opacity=".95"/>
+<path d="M326 320h148l-14 158a34 34 0 0 1-34 30h-52a34 34 0 0 1-34-30z" fill="#6b4a2c" opacity=".85"/>
+<path d="M330 356h140l-5 54H335z" fill="#d7b98e" opacity=".7"/>
+<g fill="#ffffff" opacity=".55"><rect x="348" y="268" width="44" height="44" rx="8" transform="rotate(12 370 290)"/><rect x="410" y="262" width="40" height="40" rx="8" transform="rotate(-16 430 282)"/><rect x="380" y="312" width="42" height="42" rx="8" transform="rotate(6 401 333)"/></g>
+<rect x="470" y="150" width="16" height="130" rx="8" fill="#3e4b35" transform="rotate(14 478 215)"/>
+<ellipse cx="400" cy="510" rx="120" ry="24" fill="#000" opacity=".07"/></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Matcha berry latte">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef1e4"/><stop offset="1" stop-color="#d8dfc4"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#b)"/>
+<ellipse cx="400" cy="516" rx="130" ry="26" fill="#000" opacity=".08"/>
+<path d="M320 230h160l-18 250a32 32 0 0 1-32 28h-60a32 32 0 0 1-32-28z" fill="#f8f5ee" opacity=".95"/>
+<path d="M326 300h148l-14 180a32 32 0 0 1-32 28h-56a32 32 0 0 1-32-28z" fill="#a8c47e"/>
+<path d="M330 300h140l-6 74H336z" fill="#8fb36a"/>
+<path d="M336 374h128l-6 54H342z" fill="#9c2340"/><g transform="translate(400,410)" fill="#f3efe3" opacity=".9"><text text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" letter-spacing="3">SAVVA</text><text y="24" text-anchor="middle" font-family="Georgia,serif" font-size="13" letter-spacing="7">COFFEE</text></g>
+<rect x="314" y="216" width="172" height="22" rx="11" fill="#eee8dc"/></svg>

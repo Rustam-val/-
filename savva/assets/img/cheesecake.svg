@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Blueberry cheesecake">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f0e6"/><stop offset="1" stop-color="#e6d6c0"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a33"/><stop offset="1" stop-color="#5f3a1f"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#b)"/>
+<ellipse cx="400" cy="486" rx="200" ry="44" fill="#000" opacity=".08"/>
+<path d="M250 330h300v96a60 60 0 0 1-60 60H310a60 60 0 0 1-60-60z" fill="#e8c98a"/>
+<path d="M250 400h300v26a60 60 0 0 1-60 60H310a60 60 0 0 1-60-60z" fill="#c79a5c"/>
+<ellipse cx="400" cy="330" rx="150" ry="44" fill="#f6e7c5"/>
+<ellipse cx="400" cy="322" rx="140" ry="40" fill="#c4324a"/>
+<g fill="#b42a44"><circle cx="356" cy="308" r="27"/><circle cx="412" cy="298" r="29"/><circle cx="452" cy="326" r="25"/><circle cx="372" cy="342" r="24"/></g>
+<g fill="#3a3a6e"><circle cx="404" cy="336" r="17"/><circle cx="434" cy="300" r="15"/><circle cx="382" cy="284" r="14"/></g>
+<g fill="#ffffff" opacity=".25"><circle cx="348" cy="300" r="8"/><circle cx="406" cy="290" r="8"/></g></svg>

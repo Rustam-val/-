@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Cortado"><defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2eee3"/><stop offset="1" stop-color="#ddd3ba"/></linearGradient></defs><rect width="800" height="600" fill="url(#b)"/><ellipse cx="400" cy="500" rx="150" ry="34" fill="#000" opacity=".08"/>
+<path d="M332 260h136l-14 210a30 30 0 0 1-30 26h-48a30 30 0 0 1-30-26z" fill="#f6f3ec" opacity=".9"/>
+<path d="M340 330h120l-11 140a30 30 0 0 1-30 26h-40a30 30 0 0 1-30-26z" fill="#c9975c"/>
+<path d="M341 330h118l-4 46H345z" fill="#f0e0c6"/>
+<rect x="326" y="248" width="148" height="20" rx="10" fill="#eee8dc"/></svg>
